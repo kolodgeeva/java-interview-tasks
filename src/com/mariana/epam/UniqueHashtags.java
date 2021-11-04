@@ -1,4 +1,4 @@
-package com.mariana;
+package com.mariana.epam;
 
 import java.util.ArrayList;
 import java.util.Arrays;
