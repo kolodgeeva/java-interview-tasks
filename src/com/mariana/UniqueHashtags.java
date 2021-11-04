@@ -1,4 +1,4 @@
-package com.company;
+package com.mariana;
 
 import java.util.ArrayList;
 import java.util.Arrays;
